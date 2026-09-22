@@ -231,7 +231,7 @@ By combining AI, computer vision, and contextual information, SmartReturn AI aim
 
 ---
 
-# 👨‍💻 Developer
+
 
 ## 👨‍💻 Development Team
 
