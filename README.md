@@ -179,22 +179,31 @@ SmartReturnAi/
 
 ---
 
-🚀 Running the Project
-1. Clone the repository
+# 🚀 Running the Project
+
+### 1. Clone the repository
+
+```bash
 git clone https://github.com/Nihalreddy8/SmartReturnAi.git
-2. Open the project
+```
 
-Open the cloned folder in Android Studio.
+### 2. Open the project
 
-3. Wait for Gradle Sync
+Open the cloned folder in **Android Studio**.
+
+### 3. Wait for Gradle Sync
 
 Allow Android Studio to download and configure the required dependencies.
 
-4. Run the application
+### 4. Run the application
 
 Connect an Android phone or start an Android Emulator and click:
 
+```text
 Run ▶
+```
+
+---
 
 # 🔮 Future Plans
 
@@ -224,14 +233,11 @@ By combining AI, computer vision, and contextual information, SmartReturn AI aim
 
 ---
 
-
-
 ## 👨‍💻 Development Team
 
 * **Nihal Reddy** — Artificial Intelligence & Data Science
 * **Surya Mitra** — Artificial Intelligence & Data Science
 * **Umesh Chandra** — Cybersecurity
-
 
 
 GitHub: https://github.com/Nihalreddy8
