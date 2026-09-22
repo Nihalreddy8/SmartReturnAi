@@ -184,8 +184,6 @@ SmartReturnAi/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Nihalreddy8/SmartReturnAi.git
-```
 
 ### 2. Open the project
 
@@ -235,10 +233,10 @@ By combining AI, computer vision, and contextual information, SmartReturn AI aim
 
 # 👨‍💻 Developer
 
-**Nihal Reddy**
+Nihal Reddy - Artificial Intelligence & Data Science
+Surya Mitra - Artificial Intelligence & Data Science
+Umesh Chandra - cybersecurity
 
-B.Tech — Computer Science Engineering
-Artificial Intelligence & Data Science
 
 GitHub: https://github.com/Nihalreddy8
 
