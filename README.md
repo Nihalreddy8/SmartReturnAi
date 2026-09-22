@@ -179,29 +179,22 @@ SmartReturnAi/
 
 ---
 
-# 🚀 Running the Project
+🚀 Running the Project
+1. Clone the repository
+git clone https://github.com/Nihalreddy8/SmartReturnAi.git
+2. Open the project
 
-### 1. Clone the repository
+Open the cloned folder in Android Studio.
 
-```bash
-
-### 2. Open the project
-
-Open the cloned folder in **Android Studio**.
-
-### 3. Wait for Gradle Sync
+3. Wait for Gradle Sync
 
 Allow Android Studio to download and configure the required dependencies.
 
-### 4. Run the application
+4. Run the application
 
 Connect an Android phone or start an Android Emulator and click:
 
-```text
 Run ▶
-```
-
----
 
 # 🔮 Future Plans
 
