@@ -233,9 +233,12 @@ By combining AI, computer vision, and contextual information, SmartReturn AI aim
 
 # 👨‍💻 Developer
 
-Nihal Reddy - Artificial Intelligence & Data Science
-Surya Mitra - Artificial Intelligence & Data Science
-Umesh Chandra - cybersecurity
+## 👨‍💻 Development Team
+
+* **Nihal Reddy** — Artificial Intelligence & Data Science
+* **Surya Mitra** — Artificial Intelligence & Data Science
+* **Umesh Chandra** — Cybersecurity
+
 
 
 GitHub: https://github.com/Nihalreddy8
